@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbuddhu" alt="mrbuddhu" /> </p>
 
-- 👨‍To know me more visit just search **mrbuddhu**
+- 👨‍To know me open browser and type **mrbuddhu**
 
 - 🌱 I’m currently learning **AR-VR-MR**
 
@@ -12,7 +12,7 @@
 
 - 📝 I regulary write articles on [www.mrbuddhu.com/blogs](www.mrbuddhu.com/blogs)
 
-- 💬 Ask me about **Mathematics, Arts, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Cross Platform Sports Programming, Applied AI and Robotics**
+- 💬 Ask me about **Mathematics, Arts, General Studies, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Cross Platform Sports Programming, Applied AI and Robotics**
 
 - 📫 How to reach me **i.am.mrbuddhu@gmail.com**
 
@@ -55,7 +55,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbuddhu&layout=compact" alt="mrbuddhu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbuddhu&show_icons=true" alt="mrbuddhu" /></p>
 
-<p align="center">
+<p align="left">
   
 <a href="https://linkedin.com/in/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrbuddhu" height="30" width="30" /></a>
 <a href="https://dev.to/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrbuddhu" height="30" width="30" /></a>  
