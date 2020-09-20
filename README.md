@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **i.am.mrbuddhu@gmail.com**
 
-- ⚡ Fun fact **There is a non-geeky side of me too :)**
+- ⚡ Fun fact **There is a non-geeky side of me too. Visit [www.mrbuddhu.com/more](www.mrbuddhu.com/more) :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
