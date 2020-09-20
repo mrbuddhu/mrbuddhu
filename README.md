@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AR-VR-MR**
 
-- 👨‍💻 All of my projects are available at [www.mrbuddhu.com](www.mrbuddhu.com)
+- 👨‍💻 All of my projects are available at [www.mrbuddhu.com/projects](www.mrbuddhu.com/projects)
 
 - 📝 I regulary write articles on [www.mrbuddhu.com/blogs](www.mrbuddhu.com/blogs)
 
