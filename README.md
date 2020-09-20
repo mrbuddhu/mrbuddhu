@@ -12,7 +12,7 @@
 
 - 📝 I regulary write articles on [www.mrbuddhu.com/blogs](www.mrbuddhu.com/blogs)
 
-- 💬 Ask me about **Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Cross Platform Sports Programming, Applied AI and Robotics**
+- 💬 Ask me about **Mathematics, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Cross Platform Sports Programming, Applied AI and Robotics**
 
 - 📫 How to reach me **i.am.mrbuddhu@gmail.com**
 
