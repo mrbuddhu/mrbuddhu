@@ -12,11 +12,11 @@
 
 - 📝 I regulary write articles on [www.mrbuddhu.com/blogs](www.mrbuddhu.com/blogs)
 
-- 💬 Ask me about **Mathematics, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Cross Platform Sports Programming, Applied AI and Robotics**
+- 💬 Ask me about **Mathematics, Arts, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Cross Platform Sports Programming, Applied AI and Robotics**
 
 - 📫 How to reach me **i.am.mrbuddhu@gmail.com**
 
-- ⚡ Fun fact **There is a non-geeky side of me too. Visit [www.mrbuddhu.com/more](www.mrbuddhu.com/more) :)**
+- ⚡ Fun fact **There is a non-geeky side of me too :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -58,22 +58,13 @@
 <p align="center">
   
 <a href="https://linkedin.com/in/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrbuddhu" height="30" width="30" /></a>
-
-<a href="https://dev.to/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrbuddhu" height="30" width="30" /></a>
-  
-<a href="https://stackoverflow.com/users/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mrbuddhu" height="30" width="30" /></a>
-  
+<a href="https://dev.to/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrbuddhu" height="30" width="30" /></a>  
+<a href="https://stackoverflow.com/users/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mrbuddhu" height="30" width="30" /></a>  
 <a href="https://kaggle.com/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mrbuddhu" height="30" width="30" /></a>
-
 <a href="https://codeforces.com/profile/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mrbuddhu" height="30" width="30" /></a>
-
-<a href="https://www.codechef.com/users/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrbuddhu" height="30" width="30" /></a>
-  
-<a href="https://www.leetcode.com/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mrbuddhu" height="30" width="30" /></a>
-  
+<a href="https://www.codechef.com/users/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrbuddhu" height="30" width="30" /></a> 
+<a href="https://www.leetcode.com/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mrbuddhu" height="30" width="30" /></a> 
 <a href="https://www.hackerearth.com/@mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@mrbuddhu" height="30" width="30" /></a>
-
-<a href="https://www.hackerrank.com/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mrbuddhu" height="30" width="30" /></a>
-  
+<a href="https://www.hackerrank.com/mrbuddhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mrbuddhu" height="30" width="30" /></a> 
 <a href="https://auth.geeksforgeeks.org/user/mrbuddhu/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="mrbuddhu/profile" height="30" width="30" /></a>
 </p>
