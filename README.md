@@ -1,12 +1,14 @@
 
-<h1 align="center">Namaste 🙏, I'm Aryabhatta (**mrbuddhu**)</h1>
+<h1 align="center">Namaste 🙏, I'm Aryabhatta (mrbuddhu)</h1>
 <h3 align="center">Build • Break • Design • Solve • Train • Serve</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbuddhu" alt="mrbuddhu" /> </p>
 
+- 👨‍To know me more visit just search **mrbuddhu**
+
 - 🌱 I’m currently learning **AR-VR-MR**
 
-- 👨‍💻 All of my projects are available at [www.mrbuddhu.com/projects](www.mrbuddhu.com/projects)
+- 💻 All of my projects are available at [www.mrbuddhu.com/projects](www.mrbuddhu.com/projects)
 
 - 📝 I regulary write articles on [www.mrbuddhu.com/blogs](www.mrbuddhu.com/blogs)
 
