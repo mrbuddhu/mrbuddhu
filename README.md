@@ -10,7 +10,7 @@
 
 - 💻 All of my projects are available at [www.mrbuddhu.com/projects](www.mrbuddhu.com/projects)
 
-- 📝 I regulary write articles on [www.mrbuddhu.com/blogs](www.mrbuddhu.com/blogs)
+- 📝 I regulary write blogs on [www.mrbuddhu.com/blogs](www.mrbuddhu.com/blogs)
 
 - 💬 Ask me about **Mathematics, Arts, General Studies, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Cross Platform Sports Programming, Applied AI and Robotics**
 
@@ -18,9 +18,7 @@
 
 - ⚡ Fun fact **There is a non-geeky side of me too :)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
