@@ -1,7 +1,7 @@
 
 <h1 align="center">Namaste 🙏, I'm Aryabhatta (mrbuddhu)</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Build • Break • Design • Solve • Train • Serve)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Build • Break • Design • Solve • Train • Serve](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbuddhu" alt="mrbuddhu" /> </p>
