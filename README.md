@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=22&center=true&width=600&lines=Build+%E2%80%A2+Break+%E2%80%A2+Design+%E2%80%A2+Solve+%E2%80%A2+Train+%E2%80%A2+Serve)](https://git.io/typing-svg)
 
+[![mrbuddhu's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrbuddhu&theme=xcode)](https://git.io/mrbuddhu)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbuddhu" alt="mrbuddhu" /> </p>
 
