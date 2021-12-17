@@ -16,9 +16,9 @@
 
 - 📝 I regulary write blogs on [www.mrbuddhu.me/blogs](www.mrbuddhu.me/blogs)
 
-- 💬 Ask me about **Mathematics, Arts, General Studies, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Graphic Design, Applied AI, Robotics, IoT, Blockchain, AR/VR/MR, Game Development**
+- 💬 Ask me about **Mathematics, Arts, General Studies, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Graphic Design & Animations, Applied AI, Robotics, IoT, Blockchain**
 
-- 📫 How to reach me **i.am.mrbuddhu@gmail.com**
+- 📫 How to reach me **i.am.mrbuddhu@gmail.com** & **aryabhattajr@gmail.com**
 
 - ⚡ Fun fact **There is a non-geeky side of me too :)**
 
