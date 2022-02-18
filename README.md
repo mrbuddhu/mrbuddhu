@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **Mathematics, Arts, General Studies, Core Computer Science, Cross Platform Development, Cross Platform Pentesting, Graphic Design & Animations, Applied AI, Robotics, IoT, Blockchain, AR/VR/MR/XR**
 
-- 📫 How to reach me **i.am.mrbuddhu@gmail.com** & **aryabhattajr@gmail.com**
-
 - ⚡ Fun fact **There is a non-geeky side of me too :)**
 
 
