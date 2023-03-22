@@ -1,5 +1,5 @@
 
-<h1 align="center">Namaste 🙏, I'm Aryabhatta (mrbuddhu)</h1>
+<h1 align="center">Namaste 🙏, I'm Constant Learner (mrbuddhu)</h1>
 
 
 
