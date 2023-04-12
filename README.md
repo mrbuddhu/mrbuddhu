@@ -7,9 +7,9 @@
 
 - 👨‍To know me open browser and type **mrbuddhu**
 
-- 💻 All of my projects are available at [www.mrbuddhu.live/projects](www.mrbuddhu.live/projects)
+- 💻 All of my projects are available at [www.mrbuddhu.xyz/projects](www.mrbuddhu./proxyzjects)
 
-- 📝 I regulary write blogs on [www.mrbuddhu.live/blogs](www.mrbuddhu.live/blogs)
+- 📝 I regulary write blogs on [www.mrbuddhu.xyz/blogs](www.mrbuddhu.xyz/blogs)
 
 - 💬 Ask me about **Mathematics, Arts, General Studies, Core Computer Science, Cross Platform Development, Cross Platform Security, Graphic Design & Animations, Applied AI, Robotics, IoT, Blockchain, AR/VR/MR/XR & Metaverse**
 
