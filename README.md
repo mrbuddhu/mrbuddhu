@@ -7,8 +7,8 @@
 
 - 👨‍To know me open your browser and type **mrbuddhu**
 
-- 💻 All of my projects are available at [www.mrbuddhu.xyz/projects](www.mrbuddhu./proxyzjects)
+- 💻 All of my projects are available at [www.mrbuddhu.com/projects](www.mrbuddhu.com/projects)
 
-- 📝 I occasionally write blogs on [www.mrbuddhu.xyz/blogs](www.mrbuddhu.xyz/blogs)
+- 📝 I occasionally write blogs on [www.mrbuddhu.com/blogs](www.mrbuddhu.com/blogs)
 
 - ⚡ Fun fact **There is a non-geeky side of me too :)**
