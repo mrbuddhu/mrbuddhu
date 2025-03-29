@@ -7,7 +7,7 @@
 
 - 👨‍To know me open your browser and type **mrbuddhu**
 
-- 💻 All of my projects are available at(https://www.sanganak.org/portfolio)
+- 💻 All of my projects are available at https://www.sanganak.org/portfolio
 
 - 📝 I occasionally write blogs on https://www.sanganak.org/blog
 
